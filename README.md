@@ -8,6 +8,8 @@ Vamos subor que tenhamos uma série de informações coletadas sobre um solo, e 
 Este é um problema de classificação multiclasse, com mais de duas saídas possíveis. Vamos criar uma rede neural para tentar predizer qual é a melhor opção de plantação com base em nosso data set coletado na Kagle. A construção da rede neural se dará através do TensorFlow, e poderemos observar como utilizar essa poderosa ferramenta de rede profunda de maneira rápida para solucionar um problema que pode ocorrer na decisão do pequeno agropecuário ao se decidir o que plantar no solo.
 
 dataset: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+![image](https://github.com/PedroHenrique0214/CulturaAgricola_rede_neural/assets/155765414/8a6ff858-d004-4b16-b32b-5376d88544d0)
+
 
 ### 02. Conhecendo o dataset
 
