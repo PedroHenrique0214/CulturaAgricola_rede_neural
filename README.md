@@ -181,7 +181,6 @@ Nosso modelo normalizado apresentou melhor acurácia do que nosso modelo sem nen
 
 ### 05. Validação do nosso modelo
 
-[1m21/21[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 576us/step
               precision    recall  f1-score   support
 
            0       1.00      1.00      1.00        33
@@ -207,8 +206,5 @@ Nosso modelo normalizado apresentou melhor acurácia do que nosso modelo sem nen
           20       0.75      0.96      0.84        28
           21       0.87      1.00      0.93        27
 
-    accuracy                           0.96       660
-   macro avg       0.96      0.96      0.96       660
-weighted avg       0.96      0.96      0.96       660
 
 ![image](https://github.com/PedroHenrique0214/CulturaAgricola_rede_neural/assets/155765414/8e222d8b-839a-4eac-b1c5-da064dcb6671)
